@@ -4,7 +4,7 @@ function About() {
   return (
     <div style={{
       backgroundImage: 'url("https://cdn.pixabay.com/photo/2017/12/18/13/59/create-3026190_960_720.jpg)',
-      height: "100%", backgroundRepeat: "no-repeat"
+      height: "100%", backgroundRepeat: "no-repeat",background-size:"cover"
     }}>
       <center>
       <h2>ABOUT US</h2>
